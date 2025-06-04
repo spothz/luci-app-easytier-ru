@@ -1,3 +1,5 @@
+# Руссая версия в другой ветке https://github.com/spothz/luci-app-easytier-ru/tree/luci-app-easytier_ru
+
 # luci-app-easytier
 
 依赖`kmod-tun`需要先在系统软件包里安装好
